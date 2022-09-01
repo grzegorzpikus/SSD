@@ -1,0 +1,22 @@
+{
+    "FileRepository":
+    {
+        "uploading": ["Admin", "grzegorzpikus"]
+    },
+
+    "test1.txt":
+    {
+        "reading": ["grzegorzpikus", "userB", "userZ"],
+        "writing": ["userA", "userB"],
+        "deleting": ["Admin"],
+        "downloading": ["grzegorzpikus", "userB", "userX"]
+    },
+
+    "test2.txt":
+    {
+        "reading": ["userA", "userB", "userZ"],
+        "writing": ["userA", "userB"],
+        "deleting": ["userA"],
+        "downloading": ["userA", "userB", "userX"]
+    }
+}
